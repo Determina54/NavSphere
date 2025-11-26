@@ -108,14 +108,6 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
-        },
-        {
-          "id": "site_1764130683902_oet9a56tx",
-          "title": "龙之归宿",
-          "href": "https://mk48by049.mbbs.cc",
-          "description": "龙之归宿",
-          "icon": "/assets/favicon_1764130665610.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -1405,7 +1397,16 @@
       "icon": "LayoutList",
       "description": "顶流（",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764130683902_oet9a56tx",
+          "title": "龙之归宿",
+          "href": "https://mk48by049.mbbs.cc",
+          "description": "龙之归宿",
+          "icon": "/assets/favicon_1764130665610.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
