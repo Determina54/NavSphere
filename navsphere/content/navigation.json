@@ -28,6 +28,14 @@
               "description": "Tailchat: Next generation noIM application in your own workspace, not only another Slack/Discord/Rocke.chat",
               "icon": "/assets/favicon_1765433176030.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1765433231420_ivvqgwi78",
+              "title": "d54 MK48多开器",
+              "href": "https://www.determina54.dpdns.org",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.determina54.dpdns.org",
+              "enabled": true
             }
           ]
         },
