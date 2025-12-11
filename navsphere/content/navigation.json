@@ -20,6 +20,14 @@
               "description": "Free online ship combat game. Sail your way to victory, watch out for torpedoes!",
               "icon": "/assets/favicon_1765433133000.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765433191903_4eg3q6syd",
+              "title": "tailchat-nightly官方版（避难所驻地",
+              "href": "https://nightly.paw.msgbyte.com/",
+              "description": "Tailchat: Next generation noIM application in your own workspace, not only another Slack/Discord/Rocke.chat",
+              "icon": "/assets/favicon_1765433176030.ico",
+              "enabled": true
             }
           ]
         },
