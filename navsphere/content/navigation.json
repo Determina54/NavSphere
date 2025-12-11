@@ -12,7 +12,16 @@
           "icon": "Settings",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1765433145327_t56tj0oux",
+              "title": "mk54",
+              "href": "https://mk54.dpdns.org",
+              "description": "Free online ship combat game. Sail your way to victory, watch out for torpedoes!",
+              "icon": "/assets/favicon_1765433133000.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "292a2afa-ceae-4aa2-9b1a-111daea97dce",
