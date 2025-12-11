@@ -36,6 +36,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.determina54.dpdns.org",
               "enabled": true
+            },
+            {
+              "id": "site_1765433268023_5cslk8t7g",
+              "title": "D54盘 - 还是pan大佬uwu",
+              "href": "https://pan.determina54.dpdns.org",
+              "description": "账号mk49tailchat\n密码TAILCHATMK49",
+              "icon": "/assets/favicon_1765433246002.ico",
+              "enabled": true
             }
           ]
         },
