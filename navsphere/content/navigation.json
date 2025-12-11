@@ -7,6 +7,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "ff50d22e-88db-4278-814c-ddf976b9d577",
+          "title": "必备！！",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "292a2afa-ceae-4aa2-9b1a-111daea97dce",
           "title": "实用工具",
           "icon": "Box",
@@ -118,14 +126,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "ff50d22e-88db-4278-814c-ddf976b9d577",
-          "title": "必备！！",
-          "icon": "Settings",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
