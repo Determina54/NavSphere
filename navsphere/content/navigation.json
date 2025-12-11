@@ -118,6 +118,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "ff50d22e-88db-4278-814c-ddf976b9d577",
+          "title": "必备！！",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
