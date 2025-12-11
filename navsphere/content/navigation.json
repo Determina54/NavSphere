@@ -1181,6 +1181,14 @@
           "description": "龙之归宿",
           "icon": "/assets/favicon_1764130665610.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765432818931_xnftpxazp",
+          "title": "mk54",
+          "href": "https://mk54.dpdns.org",
+          "description": "d54 mk服（\n更新筹备中",
+          "icon": "/assets/favicon_1765432793638.png",
+          "enabled": true
         }
       ],
       "subCategories": []
