@@ -110,7 +110,16 @@
           "enabled": true
         }
       ],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "292a2afa-ceae-4aa2-9b1a-111daea97dce",
+          "title": "实用工具",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
