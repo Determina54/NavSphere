@@ -44,6 +44,14 @@
               "description": "账号mk49tailchat\n密码TAILCHATMK49",
               "icon": "/assets/favicon_1765433246002.ico",
               "enabled": true
+            },
+            {
+              "id": "1765775019665",
+              "title": "船只建造工具使用教程",
+              "href": "https://guide.mk54.dpdns.org",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=guide.mk54.dpdns.org",
+              "enabled": true
             }
           ]
         },
