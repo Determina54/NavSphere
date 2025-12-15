@@ -52,6 +52,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=guide.mk54.dpdns.org",
               "enabled": true
+            },
+            {
+              "id": "1765775084143",
+              "title": "船只建造工具",
+              "href": "https://shiptool.mk54.dpdns.org",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=shiptool.mk54.dpdns.org",
+              "enabled": true
             }
           ]
         },
